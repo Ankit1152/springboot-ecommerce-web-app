@@ -1,0 +1,2 @@
+INSERT INTO product (name, desc, brand, price, category, release_date, available, quantity) VALUES
+('Maruti XUV', 'Compact SUV with excellenmt safety features and performance', 'Tata Motors', 75000.00, 'Cars', '2024-01-15', true, 50);
